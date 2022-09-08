@@ -45,6 +45,7 @@ B - Área publica que consiste em:
     
     Pagina para listar Rockets, desejavel que seja implementado paginação (2 em 2 rockets).
     Pagina para visualizar um Rocket.
+    Nas informações do Rocket deverão aparecer, nome, descrição, altura, diametro, massa e foto.
 
 Obs.: Caso esteja fazendo a prova para frontend utilize a API: https://github.com/r-spacex/SpaceX-API/tree/master/docs/rockets/v4
 ## Exercício 3
